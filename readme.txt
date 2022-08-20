@@ -1,5 +1,6 @@
-regardez le xml pour creer d'autre phrases pour d'autres language
+Regardez le XML pour creer d'autre phrases pour d'autres language
 
-pas de clés ni inscrition requise
+-> Pas de clés d'activation
+-> Ni inscription requise
 
-Hack de google transalte api 
+Juste un simple Hack de google transalte api 
